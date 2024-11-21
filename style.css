@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    font-size:0;
+}
+
+body{
+    background-color: rgb(224, 221, 221);
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+button{
+    font-size: medium;
+}
+
+input{
+    font-size: medium;
+}
+
+#canvas{
+    width: fit-content;
+    margin: auto;
+    border-radius: 5px;
+}
+
+#bigdiv{
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: grey;
+    width: fit-content;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+#smalldiv{
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    width: fit-content;
+    margin: auto;
+}
